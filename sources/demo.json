@@ -1,0 +1,20 @@
+[
+    {
+        "name": "bleepingcomputer",
+        "type": "RSS",
+        "url_or_id": "https://www.bleepingcomputer.com/feed/",
+        "description": "专注于安全和技术支持的网站，提供了一个广泛的资源库，包括新闻、教程、论坛和下载。"
+    },
+    {
+        "name": "360威胁情报中心",
+        "type": "wechat",
+	"url_or_id": "CoreSec360",
+        "description": "全球领先的威胁情报共享、分析和预警平台"
+    },
+    {
+        "name": "Sec Today",
+        "type": "website",
+        "url_or_id": "https://sec.today/",
+        "description": "玄武实验室通过交叉检索公开的数据源来建立的一个信息安全资讯的聚合网站。"
+    }
+]
