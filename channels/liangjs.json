@@ -1,0 +1,79 @@
+[
+    {
+        "name": "AI基础设施安全",
+        "title_en": "AI infrastructure Security",
+        "title_zh": "AI基础设施安全",
+        "desc_en": "Vulnerabilities in AI infrastructure/library, such as torch, transformers, tensorrt, etc.",
+        "desc_zh": "AI基础库漏洞，如torch，transforers，tensorrt等。"
+    },
+    {
+        "name": "大模型安全",
+        "title_en": "LLM Security",
+        "title_zh": "大模型安全",
+        "desc_en": "Security issues within large-scale model systems, such as prompt injection.",
+        "desc_zh": "大模型系统自身的安全问题，如提示词注入等。"
+    },
+    {
+        "name": "LLM x CyberSecurity",
+        "title_en": "LLM x CyberSecurity",
+        "title_zh": "LLM x CyberSecurity",
+        "desc_en": "Using LLMs to address cybersecurity issues, such as alert analysis based on LLMs, and fuzz testing assisted by LLMs.",
+        "desc_zh": "应用大模型解决网络空间安全方面的问题，如基于大模型的告警研判，基于大模型辅助的模糊测试等"
+    },
+    {
+        "name": "模糊测试",
+        "title_en": "Fuzz Testing",
+        "title_zh": "模糊测试",
+        "desc_en": "Research related to fuzz testing",
+        "desc_zh": "与模糊测试相关的研究"
+    },
+    {
+        "name": "勒索软件",
+        "title_en": "Ransomware",
+        "title_zh": "勒索软件",
+        "desc_en": "News related to ransomware operations, ransomware sample analysis, etc.",
+        "desc_zh": "与勒索软件行动相关的新闻、勒索软件样本分析等"
+    },
+    {
+        "name": "APT",
+        "title_en": "APT",
+        "title_zh": "APT",
+        "desc_en": "Articles related to advanced persistent threats, such as analysis and tracking of advanced threats.",
+        "desc_zh": "高级持续威胁相关的文章，如高级威胁的的分析、追踪等"
+    },
+    {
+        "name": "安全工具和产品发布",
+        "title_en": "Tool Releasing",
+        "title_zh": "安全工具和产品发布",
+        "desc_en": "The releases of new security products or security tools.",
+        "desc_zh": "新的安全产品或安全工具的发布。"
+    },
+    {
+        "name": "核心组件的RCE",
+        "title_en": "Core Components' RCE",
+        "title_zh": "核心组件的RCE",
+        "desc_en": "The vulnerability of core components that can lead to remote code execution. Core components refer to foundational libraries, middleware, and services in the software stack, such as Apache Dubbo, Log4j, and others.",
+        "desc_zh": "可以达成远程代码执行的核心组件的漏洞。核心组件是指在软件栈中具有基础地位库、中间件、服务，如Apache Dubbo、Log4j等。"
+    },
+    {
+        "name": "网络基础设施漏洞",
+        "title_en": "Network Infrastructure Vunerabilities",
+        "title_zh": "网络基础设施漏洞",
+        "desc_en": "The vulnerabilities related to network infrastructure components (such as CDN) and basic network protocols (such as TLS, TCP).",
+        "desc_zh": "网络基础设施组件（如CDN）以及基础网络协议（如TLS，TCP）相关的漏洞"
+    },
+    {
+        "name": "密码学安全",
+        "title_en": "Crypto",
+        "title_zh": "密码学安全",
+        "desc_en": "Security issues related to cryptography, such as vulnerabilities caused by misuse of passwords, flaws in password algorithms, and so on.",
+        "desc_zh": "密码学相关的问题，如因密码误用导致的漏洞、密码算法本身的漏洞等。"
+    },
+    {
+        "name": "标准与法律法规",
+        "title_en": "Regulations",
+        "title_zh": "标准与法律法规",
+        "desc_en": "The release of new standards and regulations related to network security.",
+        "desc_zh": "新的网络安全相关的标准和法律法规的发布。"
+    }
+]

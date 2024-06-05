@@ -1,0 +1,58 @@
+[
+    {
+        "name": "区块链安全",
+        "title_en": "Blockchain Security",
+        "title_zh": "区块链安全",
+        "desc_en": "Articles related to blockchain security, including but not limited to contract security, protocol security, node/client security, exchange security, phishing fraud, etc.",
+        "desc_zh": "区块链安全相关的文章，包括但不限于合约安全、协议安全、节点/客户端安全、交易所安全、钓鱼欺诈等。"
+    },
+    {
+        "name": "漏洞利用",
+        "title_en": "Vulnerability Exploitation",
+        "title_zh": "漏洞利用",
+        "desc_en": "Special articles on vulnerability exploitation, involving inspiring and innovative vulnerability exploitation techniques.",
+        "desc_zh": "漏洞利用专题文章，涉及到富有启发意义的、具有创新性的漏洞利用技术。"
+    },
+    {
+        "name": "供应链安全",
+        "title_en": "Supply Chain Security",
+        "title_zh": "供应链安全",
+        "desc_en": "Security incidents or reports caused by security vulnerabilities in third-party commercial or open-source software/system components.",
+        "desc_zh": "由于第三方的商业或开源软件/系统组件存在安全漏洞而导致的安全事件或报告。"
+    },
+    {
+        "name": "浏览器安全",
+        "title_en": "Browser Security",
+        "title_zh": "浏览器安全",
+        "desc_en": "Security articles related to mainstream web browsers.",
+        "desc_zh": "主流网页浏览器相关的安全文章。"
+    },
+    {
+        "name": "数据泄露",
+        "title_en": "Data Breach",
+        "title_zh": "数据泄露",
+        "desc_en": "Incidents of sensitive information leakage involving individuals, enterprises, or government agencies.",
+        "desc_zh": "个人、企业或政府机构的敏感信息泄露事件。"
+    },
+    {
+        "name": "CTF夺旗赛",
+        "title_en": "CTF (Capture The Flag)",
+        "title_zh": "CTF夺旗赛",
+        "desc_en": "CTF problem-solving reports, competition announcements, and standings.",
+        "desc_zh": "CTF解题报告、比赛通知和赛况等。"
+    },
+    {
+        "name": "内核安全",
+        "title_en": "Kernel Security",
+        "title_zh": "内核安全",
+        "desc_en": "Security technical articles related to the kernels of operating systems such as Linux, Windows, MacOS, iOS, and Android.",
+        "desc_zh": "Linux、Windows、MacOS、iOS、Android等操作系统内核相关的安全技术文章。"
+    },
+    {
+        "name": "漏洞赏金",
+        "title_en": "Bug Bounty",
+        "title_zh": "漏洞赏金",
+        "desc_en": "Bug bounty programs published by software vendors, or experiences written by security researchers on obtaining bounties.",
+        "desc_zh": "由软件厂商公布的漏洞赏金计划，或安全研究人员撰写的赏金获取经验。"
+    }
+]
